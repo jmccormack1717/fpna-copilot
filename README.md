@@ -40,7 +40,7 @@ streamlit run app.py
 pytest
 
 ## File Structure
-
+<pre>
 fpna-copilot/
 ├── app.py             # Streamlit app
 ├── agent/             # Planner + tools
@@ -50,3 +50,4 @@ fpna-copilot/
 ├── tests/             # Unit tests
 ├── requirements.txt
 └── README.md
+</pre>
