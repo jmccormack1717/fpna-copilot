@@ -42,11 +42,11 @@ pytest
 ## File Structure
 
 fpna-copilot/
-├─ app.py             # Streamlit app
-├─ agent/             # Planner + tools
-│  ├─ __init__.py
-│  └─ tools.py
-├─ fixtures/          # Dataset CSVs
-├─ tests/             # Unit tests
-├─ requirements.txt
-└─ README.md
+├── app.py             # Streamlit app
+├── agent/             # Planner + tools
+│   ├── __init__.py
+│   └── tools.py
+├── fixtures/          # Dataset CSVs
+├── tests/             # Unit tests
+├── requirements.txt
+└── README.md
