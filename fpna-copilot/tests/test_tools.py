@@ -23,4 +23,3 @@ def test_opex_breakdown_runs():
 def test_cash_runway_runs():
     response, fig = tools.cash_runway()
     assert "Cash Runway" in response or "indefinite" in response
-    # Cash runway may return no chart
